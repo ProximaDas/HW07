@@ -1,0 +1,6 @@
+1, main_room, right, 2015-08-12/23:18
+2, cthulhu_room flee, 2015-08-12/23:18
+3, main_room, left, 2015-08-12/23:18
+4, bear_room, taunt, 2015-08-12/23:18
+5, bear_room, taunt, 2015-08-12/23:18
+6, dead, 2015-08-12/23:18
